@@ -1,0 +1,23 @@
+{
+	"10042016": {
+		"numeroServito": "5",
+		"ultimoNumeroPrenotato": "12",
+		"analogico": "2",
+		"digitale": "10"
+	},
+    "11042016": {
+		"numeroServito": "15",
+		"ultimoNumeroPrenotato": "17",
+		"analogico": "3",
+		"digitale": "14"
+	},
+    "12042016": {
+		"numeroServito": "1",
+		"ultimoNumeroPrenotato": "13",
+		"analogico": "3",
+		"digitale": "10"
+	},
+    "TempiAttesa":{
+        "mediaPaziente": 10
+    } 
+}
